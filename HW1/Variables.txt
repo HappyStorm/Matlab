@@ -1,0 +1,24 @@
+Variables Name:
+
+1.	origin	(自備款)
+2.	total	(總借錢數)
+3.	apr		(年利率)
+4.	year	(借款年數)
+5.	iiv		(房子年增值率)
+6.	fhv		(房子終值)
+7.	fmypay	(所付終值)
+8.	forigin	(自備款終值)
+9.	income	(所賺)
+10.	rentincome	(租金)
+11.	nvalue	(現值)
+12.	dr		(存款利率)
+13. nfmypay	(有租金的pay)
+14.	rentnvalue	(有租金的現值)
+
+Command Window:
+
+apr = 0.03
+dr = 0.0138
+iiv = 0.07
+total = 400
+year = 20
